@@ -1,5 +1,5 @@
 <div align="center">
-  <img id="Today_Daikanwa" width="300" alt="Today_Daikanwa" src="https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/master/.github/icon.svg">
+  <img id="Today_Daikanwa" width="400" alt="Today_Daikanwa" src="https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/master/.github/icon.svg">
   <p>『 Today_Daikanwa - 今日大汉和！』</p>
 </div>
 

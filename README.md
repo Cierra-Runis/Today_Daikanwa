@@ -1,9 +1,9 @@
 <div align="center">
-  <img id="repository_template" width="96" alt="repository_template" src="https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/.github/icon.svg">
-  <p>『 repository_template - 仓库模版！』</p>
+  <img id="Today_Daikanwa" width="96" alt="Today_Daikanwa" src="https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/master/.github/icon.svg">
+  <p>『 Today_Daikanwa - 今日大汉和！』</p>
 </div>
 
-`最后更新于：2023-01-10 21:00:00`
+`最后更新于：2023-07-17 15:55:47`
 
 [📚 简介](#-简介)
 
@@ -27,8 +27,6 @@
 
 # 📸 示例
 
-![screenshots_1](https://raw.githubusercontent.com/Cierra-Runis/repository_template/master/.github/screenshots_1.png)
-
 # 📦 使用方式
 
 复制粘贴并修改 `README` 和 `LICENSE` 文件与 `.github` 文件夹内图片
@@ -49,12 +47,12 @@
 
 # 🧑‍💻 贡献者
 
-<a href="https://github.com/Cierra-Runis/repository_template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Cierra-Runis/repository_template" />
+<a href="https://github.com/Cierra-Runis/Today_Daikanwa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Cierra-Runis/Today_Daikanwa" />
 </a>
 
 # 🔦 声明
 
-[![License](https://img.shields.io/github/license/Cierra-Runis/repository_template)](https://github.com/Cierra-Runis/repository_template/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Cierra-Runis/Today_Daikanwa)](https://github.com/Cierra-Runis/Today_Daikanwa/blob/master/LICENSE)
 
-该项目采用 `MIT` 许可协议，查看 [LICENSE](https://github.com/Cierra-Runis/repository_template/blob/master/LICENSE) 以获得更多信息
+该项目采用 `MIT` 许可协议，查看 [LICENSE](https://github.com/Cierra-Runis/Today_Daikanwa/blob/master/LICENSE) 以获得更多信息

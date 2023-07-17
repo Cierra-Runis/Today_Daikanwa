@@ -29,6 +29,8 @@
 
 # 📸 示例
 
+请在 [Release 界面](https://github.com/Cierra-Runis/Today_Daikanwa/releases) 下载 Demo 软件进行预览
+
 ![screenshot_1](https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/master/.github/screenshot_1.png)
 ![screenshot_2](https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/master/.github/screenshot_2.png)
 

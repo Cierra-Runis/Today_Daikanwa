@@ -23,7 +23,9 @@
 
 # 📚 简介
 
-用于快速构建仓库 `README` 文件
+<ruby>`今日の大漢和`<rt>きょうのだいかんわ</rt></ruby> 由 [<ruby>`漢字文化資料館`<rt>かんじぶんかしりょうかん</rt></ruby>](https://kanjibunka.com/) 从『大汉和辞典』中每天选择一个字进行发布。
+
+本项目与 [「一言 HiToKoTo」](https://hitokoto.cn/) 一样，可随机调出一个字进行展示。
 
 # 📸 示例
 

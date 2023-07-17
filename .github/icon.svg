@@ -2,5 +2,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="300pt" height="100pt" viewBox="0 0 300 100" version="1.1"
   xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" style="text-anchor: middle; dominant-baseline: middle; font-weight: bolder; font-family: 'MS Mincho', serif; font-size: 48px; fill:#444444">今日の大漢和</text>
+  <text x="50%" y="50%" style="text-anchor: middle; dominant-baseline: middle; font-weight: bolder; font-family: 'Hiragino Mincho Pro', 'Yu Mincho', 'MS PMincho', 'IPA Mincho', '宋体', serif; font-size: 48px; fill:#888">今日の大漢和</text>
 </svg>

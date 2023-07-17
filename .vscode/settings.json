@@ -1,10 +1,26 @@
 {
     "cSpell.words": [
         "apikey",
+        "Cupertino",
         "daikanwa",
         "lxml",
         "matplotlib",
         "outputformat",
         "yomimono"
-    ]
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.vscode": true,
+        "**/.dart_tool": true,
+        "**/.idea": true,
+        "**/build": true,
+        "**/.metadata": true,
+        "**/example.iml": true
+    },
+    "explorerExclude.backup": {}
 }

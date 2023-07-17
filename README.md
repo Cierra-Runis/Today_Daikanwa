@@ -23,15 +23,33 @@
 
 # 📚 简介
 
-<ruby>`今日の大漢和`<rt>きょうのだいかんわ</rt></ruby> 由 [<ruby>`漢字文化資料館`<rt>かんじぶんかしりょうかん</rt></ruby>](https://kanjibunka.com/) 从『大汉和辞典』中每天选择一个字进行发布。
+<ruby>今日の大漢和<rt>きょうのだいかんわ</rt></ruby> 由 [<ruby>漢字文化資料館<rt>かんじぶんかしりょうかん</rt></ruby>](https://kanjibunka.com/) 从『大汉和辞典』中每天选择一个字进行发布
 
-本项目与 [「一言 HiToKoTo」](https://hitokoto.cn/) 一样，可随机调出一个字进行展示。
+本项目与『[一言 HiToKoTo](https://hitokoto.cn/)』一样，可随机调出一个字进行展示
 
 # 📸 示例
 
+![screenshot_1](https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/master/.github/screenshot_1.png)
+![screenshot_2](https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/master/.github/screenshot_2.png)
+
 # 📦 使用方式
 
-复制粘贴并修改 `README` 和 `LICENSE` 文件与 `.github` 文件夹内图片
+使用 `https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/main/data/data.json` 作为数据源
+其返回一个列表，其元素结构如下：
+
+```json
+{
+  "uuid": "8c954e42", # uuid 字符串，不为空
+  "raw_preview_img_url": "https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/main/data/raw/8c954e42_preview.jpg", # 未经处理的预览图片链接字符串，不为空，格式为 jpg
+  "processed_preview_img_url": "https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/main/data/processed/8c954e42_preview.png", # 经过处理的预览图片链接字符串，不为空，格式为 png
+  "preview_width": 150, # 预览图片宽度，不为空
+  "preview_height": 281, # 预览图片高度，不为空
+  "raw_detail_img_url": "https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/main/data/raw/8c954e42_detail.jpg", # 未经处理的详情图片链接字符串，不为空，格式为 jpg
+  "processed_detail_img_url": "https://raw.githubusercontent.com/Cierra-Runis/Today_Daikanwa/main/data/processed/8c954e42_detail.png", # 经过处理的详情图片链接字符串，不为空，格式为 png
+  "detail_width": 1508, # 详情图片宽度，不为空
+  "detail_height": 924 # 详情图片高度，不为空
+}
+```
 
 # ⏳ 进度
 
@@ -39,13 +57,7 @@
 
 # 📌 注意事项
 
-- 记得修改 `<img>` 和 `<a>` 标签的 `src` 与 `alt` 和 `href` 属性
-- 记得修改 `<p>` 标签
-- 记得修改最后更新时间
-- 记得修改 [贡献者](#-Contributor) 和 [声明](#-Declaration)里的仓库名和分支名
-- 记得修改 `LICENSE` 里的年份和名字
-- 如果你想在本 README 页面添加自己的链接，请去除 emoji 后不可见的 `\ufe0f`
-- 请尽可能使用全链接
+无
 
 # 🧑‍💻 贡献者
 
